@@ -32,7 +32,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayanga1&show_icons=true&theme=radical" alt="udayanga1 stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udayanga1&layout=compact&theme=radical" alt="udayanga1 languages" />
 </p>
 
